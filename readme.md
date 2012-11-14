@@ -9,7 +9,8 @@
 
  The phenomenon has been around for a long time but lately James Bridle and partners have surfaced the notion through a series of talks and observations. 
 
- The term gained wider attention following a panel at the SXSW conference in 2012.[1][#sxaesthetic]
+ The term gained wider attention following a panel at the SXSW conference in 2012.[#sxaesthetic][1]
+
 
 ### Why?
 
@@ -36,9 +37,9 @@ The world is defined by our visualisations of it. (Someone who makes such things
 
 ### Sources
 
-[1] #sxaesthetic http://booktwo.org/notebook/sxaesthetic/
+[1]: http://booktwo.org/notebook/sxaesthetic/ "#sxaesthetic"
 
-[2] An Essay on the New Aesthetic http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/
+[2]: http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/ "An Essay on the New Aesthetic"
 
 
 One of the core themes of the New Aesthetic has been our collaboration with technology, whether that’s bots, digital cameras or satellites (and whether that collaboration is conscious or unconscious), and a useful visual shorthand for that collaboration has been glitchy and pixelated imagery, a way of seeing that seems to reveal a blurring between “the real” and “the digital”, the physical and the virtual, the human and the machine. It should also be clear that this ‘look’ is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive.
