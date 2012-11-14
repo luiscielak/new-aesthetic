@@ -1,23 +1,22 @@
 ## The New Aesthetic
 
+> You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
+>> **Franz Kafka**
+
 ### The Theory
 
  The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world, and the blending of virtual and physical. 
 
  The phenomenon has been around for a long time but lately James Bridle and partners have surfaced the notion through a series of talks and observations. 
 
- The term gained wider attention following a panel at the SXSW conference in 2012.[1]
-
-
-> You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
->> Franz Kafka
+ The term gained wider attention following a panel at the SXSW conference in 2012.[1][#sxaesthetic]
 
 ### Why?
 
-- Makes me see the world different
-- Makes me think of the world different
-- Makes me experience my life differently
-- Makes me feel different 
+- See the world different
+- Think of the world different
+- Experience my life differently
+- Feel different
 
 
 ### How?
