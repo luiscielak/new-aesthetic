@@ -9,7 +9,7 @@
 
  The phenomenon has been around for a long time but lately James Bridle and partners have surfaced the notion through a series of talks and observations. 
 
- The term gained wider attention following a panel at the SXSW conference in 2012.[#sxaesthetic][1]
+ The term gained wider attention following a panel at the SXSW conference in 2012. [#sxaesthetic][1]
 
 
 ### Why?
@@ -26,7 +26,7 @@
 
 "Some architects can look at a building and tell you which version of autodesk was used to create it." 
 
-The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
+The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [#sxaesthetic][1]
 
 #### In Design
 
