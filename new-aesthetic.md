@@ -24,22 +24,15 @@
 
 ## Description
 
-The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. 
+The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3]
 
-The New Aesthetic is about the orchestration of pixels and bricks in the same plane.
+James Bridle introduced the term on May 6th, 2011. "For a while now, I've been collecting images and things that seem to approach a New Aesthetic of the future [...] we've got frustrated with the NASA extropianism space-future, the failure of jet-packs, and we need to see the technologies we actually have with a new wonder. Consider this a mood-board for unknown products." [3] Referencing to his Tumblr blog new-aesthetic.tumblr.com, where Bridle has been collecting the New Aesthetic artifacts that cross his path. [9] 
+
+In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explore the effects of the new media, products and artworks, and discuss the ways in which ways of seeing are increasingly transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
+
+"For so long we've stared up at space in wonder, but with cheap satellite imagery and cameras on kites and RC helicopters, we're looking at the ground with new eyes, to see structures and infrastructures." [7] "The socio-political asymmetries perpetuated by data-mining, the privatized social graph, facial recognition technologies, drone attacks, and camouflage are swept aside by the positive message to make the world "more exciting, make it better." [8]
 
 
-<!--  
-
-The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world, and the blending of virtual and physical. 
-
-The phenomenon has been around for a long time but lately James Bridle and partners have surfaced the notion through a series of talks and observations. 
-
-The term gained wider attention following a panel at the SXSW conference in 2012. [#sxaesthetic][1]
-
--->
-
-    { SXSW }
     
 <!--  
 One of the core themes of the New Aesthetic has been our collaboration with technology, whether that’s bots, digital cameras or satellites (and whether that collaboration is conscious or unconscious), and a useful visual shorthand for that collaboration has been glitchy and pixelated imagery, a way of seeing that seems to reveal a blurring between “the real” and “the digital”, the physical and the virtual, the human and the machine. It should also be clear that this ‘look’ is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive. [#sxaesthetic][1]
@@ -171,6 +164,9 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 
 
 
+> It's 2011, and I have no idea what anything is or does anymore.
+
+>> Taylor, in Bridle 2011 [3]
 
 
 
@@ -182,7 +178,7 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 
 [2]: http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/ "An Essay on the New Aesthetic"
 
-[3]: http://www.v2.nl/publishing/new-aesthetic-new-anxieties "New Aesthetic, New Anxieties"
+[3]: http://www.v2.nl/publishing/new-aesthetic-new-anxieties "New Aesthetic New Anxieties"
 
 [4]: http://mariuswatz.com/bio "Marius Watz"
 
@@ -192,4 +188,10 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 
 [6]: http://www.time.com/time/magazine/article/0,9171,1812084,00.html "Lev Grossman"
 
+[7]: http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/ "Bridle"
 
+[8]: http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/ "Waving at the Machines"
+
+[9]: http://new-aesthetic.tumblr.com/ "New Aesthetic Thumblr"
+
+[10]: http://schedule.sxsw.com/2012/events/event_IAP11102 "Seeing Like Digital Devices"
