@@ -15,7 +15,7 @@
 
 2. Think about the things that you think about.
 
-3. Wonder what if, and how come often.
+3. Wonder what if, and how come.
 
 
 
@@ -39,8 +39,8 @@ The term gained wider attention following a panel at the SXSW conference in 2012
 
 -->
 
-{ SXSW }
-
+    { SXSW }
+    
 <!--  
 One of the core themes of the New Aesthetic has been our collaboration with technology, whether that’s bots, digital cameras or satellites (and whether that collaboration is conscious or unconscious), and a useful visual shorthand for that collaboration has been glitchy and pixelated imagery, a way of seeing that seems to reveal a blurring between “the real” and “the digital”, the physical and the virtual, the human and the machine. It should also be clear that this ‘look’ is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive. [#sxaesthetic][1]
 
@@ -77,7 +77,7 @@ It is only after we have lived the past, that we can see the present in constant
 ### Marius Watz
 
 
-Marius Watz is Norway born, New York City based generative art artist. Generative Art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as output.
+Marius Watz is Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as output.
 
 <!-- { ideology : algorithm police } -->
 
@@ -85,18 +85,21 @@ Marius makes art based on parametric systems.
 
 "Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result."
 
-These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's output. 
+These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. 
 
 The 'Algorithm Police' problematic friends:
-- Circle packing
-- Reaction diffusion
-- Fractals
-- Strange attractors
-- Voronoi diagrams
-- Flocking / boids
-- Polygon subdivision
+
+    - Circle packing
+    - Reaction diffusion
+    - Fractals
+    - Strange attractors
+    - Voronoi diagrams
+    - Flocking / boids
+    - Polygon subdivision
 
 <!-- { current work / projects } -->
+Some of Marius' current work include 'Probability Lattice'. Parametric objects, dimensions variable (typically 14x14x14 cm). ABS plastic, 3D printed on a Makerbot Replicator. 
+
 
 
 ### Patrick Jean
@@ -106,8 +109,6 @@ The 'Algorithm Police' problematic friends:
     { ideology }
 
     {current work / projects }
-
-    - Are you human? (2009)
 
 
 ### Aram Barthol
@@ -121,6 +122,8 @@ Aram Bartholl is a Germany based digital artist that believes that pixels have e
     - Are you Human (2009)
 <!-- http://datenform.de/areyouhuman.html -->
 
+http://en.wikipedia.org/wiki/CAPTCHA
+
 
 ## Examples 
 
@@ -132,6 +135,7 @@ Aram Bartholl is a Germany based digital artist that believes that pixels have e
 
 #### Architecture
 
+Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. 
 
 <!-- "Some architects can look at a building and tell you which version of autodesk was used to create it." 
 
@@ -146,13 +150,12 @@ The world is defined by our visualisations of it. (Someone who makes such things
 <!-- nervous systems + @shashasha -->
 
 
-
-
 #### Business
 
-    { marketing }
-
 <!-- Chipotle PR + 'Lorem Ipsum bag' -->
+Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and design professional as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
+
+
 
 
 - - - 
@@ -184,3 +187,9 @@ The world is defined by our visualisations of it. (Someone who makes such things
 [4]: http://mariuswatz.com/bio "Marius Watz"
 
 [5]: http://datenform.de/ "Aram Barthol"
+
+<!-- Computer Literacy Tests: Are You Human? -->
+
+[6]: http://www.time.com/time/magazine/article/0,9171,1812084,00.html "Lev Grossman"
+
+
