@@ -69,8 +69,28 @@ It is only after we have lived the past, that we can see the present in constant
 
 ### Marius Watz
 
-
 Marius Watz is Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as output.
+
+Marius Watz frequently contributes. As an evangelist of the generative, he started the Generator-X conference showcasing latest generative strategies and software processes in digital art, architecture and design, has curated several software art exhibitions and teaches frequently coding and modeling workshops for beginners, freelancers and professionals. [3]
+
+
+<!-- 
+
+The Algorithm Thought Police'
+
+Are not neutral vessels. Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprints on the result. […] “speaking” through algorithms, your thought patterns and modes of expression are shaped by their syntax. (Watz 2012a)
+
+increasingly ubiquitous texture of reality, a skin that's being overlaid in buildings, fashion, cars, jewelry, print publications, and chairs.
+
+Watz's affectionate term, would include, among many others: Circle Packing (which define an area in circles progressively without letting them enter in contact, until the area is completely covered), Polygon subdivision (different techniques of splitting an area in polygonal shapes) and boids (the simulations of the behavior of birds flocking); or voronoi, which is "the partitioning of a plane with n points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other"
+
+Marius Watz, writing on the Creator's Project in a series of responses to Sterling’s essay, argued the case that this aspect was deceptive, "most of what NA offers up for examination is not all that new. Technologies like machine vision and geo-location are old by most standards” (2012b). In his reading, a sense of everyday practices and the ubiquity of digital and networked systems were claimed as distinctive instead: “what is new is their integration into our lives to the point where we are bringing them to bed” (2012b).
+
+This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads (Watz 2012b).
+
+It may be, that after a long generation of 'New Media,' 'computer art,' 'digital art,' 'device art,' 'net.art,' 'code art,' and similar always-new pseudonyms, we’ve found a better perspective. We’ve paid a bill in blood and struggle, and a generational shift has occurred. It’s like watching a generation slog it out in the muddy barbed wire, and then seeing a drone appear overhead ... The barbed-wire and bayonet era of net-art is over. It is one with Ypres and Verdun now, and its trenches will fill in with grass. It will never return. (Sterling 2012c)
+
+ -->
 
 <!-- { ideology : algorithm police } -->
 
@@ -117,6 +137,12 @@ Aram Bartholl is a Germany based digital artist that believes that pixels have e
 
 http://en.wikipedia.org/wiki/CAPTCHA
 
+
+### Greg Bornstein
+
+<!-- 
+Greg Borenstein, who suggested that when viewed through Object Oriented Ontology (OOO), the New Aesthetic is a “visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century” (2012).
+-->
 
 ## Examples 
 
@@ -195,3 +221,13 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 [9]: http://new-aesthetic.tumblr.com/ "New Aesthetic Thumblr"
 
 [10]: http://schedule.sxsw.com/2012/events/event_IAP11102 "Seeing Like Digital Devices"
+
+
+
+
+<!-- Notes 
+===================================================================== -->
+
+
+
+
