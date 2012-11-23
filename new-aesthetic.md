@@ -1,22 +1,9 @@
 
 The New Aesthetic
-=================
-
-
-Overivew
---------
-
-
-Content
--------
+===================
 
 > You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
->> Franz Kafka
-
-> i'm living in the future so the present is my past
->> Kanye West
-
-- - - 
+>> **Franz Kafka**
 
 ### The Theory
 
@@ -35,7 +22,6 @@ One of the core themes of the New Aesthetic has been our collaboration with tech
 - Think of the world different
 - Experience my life differently
 - Feel different
-
 
 
 ### How?
