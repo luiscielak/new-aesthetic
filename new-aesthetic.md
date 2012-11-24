@@ -60,15 +60,23 @@ The past is needed in order to be able to contextualize the present. The present
 ## People
 
 
-### James Bridle
-
-
 
 ### Marius Watz
 
 Marius Watz is Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as output.
 
 Marius Watz frequently contributes. As an evangelist of the generative, he started the Generator-X conference showcasing latest generative strategies and software processes in digital art, architecture and design, has curated several software art exhibitions and teaches frequently coding and modeling workshops for beginners, freelancers and professionals. [3]
+
+Marius makes art based on parametric systems. 
+
+"Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result."
+
+These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. 
+
+The 'Algorithm Police' problematic friends include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13]
+
+<!-- { current work / projects } -->
+Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
 
 
 <!-- 
@@ -90,26 +98,6 @@ It may be, that after a long generation of 'New Media,' 'computer art,' 'digital
  -->
 
 <!-- { ideology : algorithm police } -->
-
-Marius makes art based on parametric systems. 
-
-"Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result."
-
-These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. 
-
-The 'Algorithm Police' problematic friends:
-
-    - Circle packing
-    - Reaction diffusion
-    - Fractals
-    - Strange attractors
-    - Voronoi diagrams
-    - Flocking / boids
-    - Polygon subdivision
-
-<!-- { current work / projects } -->
-Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
-
 
 
 ### Patrick Jean
@@ -141,15 +129,13 @@ Aram Bartholl is a Germany based digital artist that believes that pixels have e
 
 ## Examples 
 
+
 #### Art
 
 <!-- @ideas : GIF art,  -->
 
 #### Design
 
-#### Architecture
-
-Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
 
 
 #### Fashion
@@ -159,19 +145,28 @@ Our tools should not limit our ability to capture reality or the ability to crea
 <!-- nervous systems + @shashasha -->
 
 
+Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
+
+http://meshu.io
+
+
+#### Architecture
+
+Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
 
 
 #### Business
+
+Marketing and advertisement firms have been heavily influenced by this new medium. Campaigns all around the world have been borrowing these digital frenzies with means to sell products and services. Some examples are Mexican fast-food chain, Chipotle and Harvey Nichols ad campaign by UAE-based advertising agency Y&R Dubai.
 
 <!-- Chipotle PR + 'Lorem Ipsum bag' -->
 Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and design professional as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
 
 <!-- Harvey Nichols, Woman, 2 #missing-img -->
 
-Harvey Nichols, Woman, 2 [12]
+Harvey Nichols, Woman, 2
 
-![Alt text](/public/img/dimitri_daniloff_harvey_nichols_beseen3_detail_em.jpg "Optional title")
-
+<!-- describe img-missing ads -->
 
 
 - - - 
@@ -312,6 +307,7 @@ Manovich infamously referred to this as the difference between 'Turing-land' and
 
 [12]: http://www.thecreatorsproject.com/blog/the-new-aesthetic-revisited-the-debate-continues "Creators Project"
 
+[13]: http://www.scribd.com/doc/96778128/20120610-A-Movement-in-3-Parts-1-Shock-Awe-2-Algorithm-Critique-3-The-New-Aesthetic-And-Its-Discontents-Marius-Watz-Eyeo-2012 "Algorithm Critique"
 
 
 
