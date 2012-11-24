@@ -43,13 +43,39 @@ One of the core themes of the New Aesthetic has been our collaboration with tech
 
 -->
 
-<!-- Beauty -->
 
+#### On Beauty
+<!-- Beauty info -->
 <!-- What is beauty? What is art?  -->
 
+#### On Newness
 <!-- New, modern, contemporary -->
-
 <!-- What is new? What is the present? What is the future? What is the past? -->
+
+
+<!-- 
+As communications guru Marshall McLuhan said in one of his numerous probes, "At the very high speed of living, everybody needs a new career and a new job and a totally new personality every ten years" (McLuhan 2002: 114-115).
+-->
+
+
+<!-- 
+New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
+-->
+
+#### On Technology
+
+Let us not forget that technology is just a tool. 
+
+<!-- 
+The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
+-->
+
+
+<!--
+Putting Fuller's quote into context, he seems to support the idea that assembling something out of parts that 'belong to a collectively available resource' provides a more or less direct lineage from the earliest Dadaists collage art, to net art, to surf clubs, to Tumblr, and to Pinterest. Fuller's assertion is that this kind of online bricolage brings us out of 'standard issue art modes' confronts the perennial battle between low and high culture, i.e., between the talented artists and the hopeless amateurs, since anyone can access the collective resource online, appropriate things, remix them and start collections.
+-->
+
+
 
 ## Origins
 
@@ -57,7 +83,7 @@ James Bridle introduced the term on May 6th, 2011. "For a while now, I've been c
 
 In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explore the effects of the new media, products and artworks, and discuss the ways in which ways of seeing are increasingly transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
 
-The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future - looking ahead allows us to drift through the present with unwritten promises of a better and more rewarding future. It is only after we have lived the past, that we can see the present in constant change. Previous experiences are the only proof of existence that we have.
+The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future - looking ahead allows us to drift through the present with unwritten promises of a better and more rewarding future. It is only after we have lived a past, that we can see the present in constant change. Previous experiences are the only proof of existence that we have.
 
 
 ## People
@@ -114,16 +140,29 @@ It may be, that after a long generation of 'New Media,' 'computer art,' 'digital
 
 Aram Bartholl is a Germany based digital artist that believes that pixels have exhausted their intended binary existence and have now invaded the physical world.
     
-<!-- { ideology } -->
 
 <!-- Current Work -->
 
-<!-- - Map (2006) -->
+
+<!-- { ideology } -->
+
+<!-- - Maps (2006) -->
 <!-- http://datenform.de/map.html -->
+
+<!-- 
+In Maps Bartholl places actual-size Google balloons in public spaces to investigate the aesthetic of "the red map marker of the location based search engine Google Maps" (Bartholl 2006).
+-->
+
 <!-- - Are you Human (2009) -->
 <!-- http://datenform.de/areyouhuman.html -->
-
 <!-- http://en.wikipedia.org/wiki/CAPTCHA -->
+
+<!-- Dead Drops (####) -->
+<!-- 
+Dead Drops and Topshot Helmet sit uncomfortably under the New Aesthetic meme. The meme lives online, while these artworks live in the world, are conceptually grounded in their materiality, and convey their concepts and material-semiotic negotiations through embodied experiences.
+
+Screenshots of Despair.
+ -->
 
 
 ### Rachel-Aima
@@ -131,6 +170,9 @@ Aram Bartholl is a Germany based digital artist that believes that pixels have e
 Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic instruction in 70's psychoanalytic feminist screen theory. In her blog post at The State, entitled 'Curation, Gender and the New Aesthetic', Aima awkwardly suggested that the attraction of the New Aesthetic might lie in the possibility to "briefly inhabit a (conventionally) feminised subjectivity?" (2012b). In her words,
  -->
 
+<!-- 
+The New Aesthetic is about being looked at by humans and by machines — by drones, surveillance cameras, people tagging you on Facebook — about being the object of the gaze. It's about looking through the eyes of a machine and seeing the machine turn its beady LEDs on you. It's about the dissolution of privacy and reproductive rights, and the monitoring, mapping, and surveillance of the (re)gendered (re)racialised body, and building our own super-pervasive panopticon. (Aima 2012)
+-->
 
 
 ## Examples 
@@ -139,6 +181,27 @@ Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic ins
 #### Art
 
 <!-- @ideas : GIF art,  -->
+
+<!-- 
+Ten Digital Readymades, however, and the link it sets up between Duchamp and process, is how computation actually serves to reinvigorate our understanding of the radical aspects of the readymade concept.
+-->
+
+<!-- 
+MTAA's Ten Digital Readymades (2000), created by entering the term 'ready made' into a search engine and archiving those search results, exemplified the sense that material on the web offers rich fodder for artists to develop work, with or without heavy subsequent alteration by artists (Kasprzak 2009).
+-->
+
+<!-- 
+A glitch design is a glitch design when captured in the photograph of a billboard or flyer. Similarly
+-->
+
+
+<!--
+Perhaps an exhibition like The Power of Things was difficult to read as critical, because a critical exhibition - in traditional electronic art terms - typically entails a bunch of computer screens and robotic sculptures in a dark industrial space, brought together under a dystopian scenario serving as an exhibition theme. Such classic ‘critical’ electronic art exhibitions, however, inform an antiquated interactive electronic art aesthetic - one that dictates that critically looking at technology’s impact on our world is best achieved by displaying hardware at work, and dispensing with frivolous topics such as beauty. Critical art, however, is also a question of sense and perception, of transformative forms and diagrams. The approach of The Power of Things explored relations between different materials in the world. This involved an aesthetics aimed at generating new hybrid or more-than-human collectives.
+-->
+
+<!--
+Manovich infamously referred to this as the difference between 'Turing-land' and 'Duchamp-land' (Manovich, 1996). Curator Catherine David expressed the Duchamp-land view in an early statement when she suggested "technology in itself is not a category according to which I judge works. This type of categorization is just as outmoded as division into classical art genres (painting, sculpture…). I am interested in the idea of a project; ideally the means of realizing the project should arise from the idea itself" (1997).
+-->
 
 #### Design
 
@@ -151,7 +214,7 @@ Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic ins
 <!-- nervous systems -->
 
 <!-- Meshu -->
-Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
+Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places /points. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
 
 #### Architecture
 
@@ -172,6 +235,12 @@ Harvey Nichols, Woman, 2
 
 <!-- describe img-missing ads -->
 
+## Criticism
+
+<!-- 
+Honor Harger captured a sense of the more tragic outcomes of the debate with some sober reflections. She highlighted, in particular, her dismay at the extreme reactions to Bridle's Tumblr, especially the 'sneering insults' of his work. By contrast, she insists, that this project was never a 'movement', but a personal project. It was never concerned with media art practice, and judging it within those terms is at best 'pointless', at worst, 'unfair',
+-->
+
 
 ## Conclusion
 
@@ -180,6 +249,11 @@ New or not new, digital or analog, virtual or physical. Regardless of what your 
 Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid as you see adequately.
 
 "This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads." (Watz 2012b)
+
+#conclusion
+
+
+
 
 - - -
 
@@ -191,91 +265,6 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 
 <!-- Notes 
 ===================================================================== -->
-
-<!-- New Anxieties -->
-
-
-#conclusion
-<!-- 
-The New Aesthetic is about being looked at by humans and by machines — by drones, surveillance cameras, people tagging you on Facebook — about being the object of the gaze. It's about looking through the eyes of a machine and seeing the machine turn its beady LEDs on you. It's about the dissolution of privacy and reproductive rights, and the monitoring, mapping, and surveillance of the (re)gendered (re)racialised body, and building our own super-pervasive panopticon. (Aima 2012)
--->
-
-#criticism
-<!-- 
-Honor Harger captured a sense of the more tragic outcomes of the debate with some sober reflections. She highlighted, in particular, her dismay at the extreme reactions to Bridle's Tumblr, especially the 'sneering insults' of his work. By contrast, she insists, that this project was never a 'movement', but a personal project. It was never concerned with media art practice, and judging it within those terms is at best 'pointless', at worst, 'unfair',
--->
-
-<!-- Curational Reading -->
-
-#new
-<!-- 
-As communications guru Marshall McLuhan said in one of his numerous probes, "At the very high speed of living, everybody needs a new career and a new job and a totally new personality every ten years" (McLuhan 2002: 114-115).
--->
-
-#new
-<!-- 
-New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
--->
-
-#technology
-<!-- 
-The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
--->
-
-
-<!-- Collect, Remix, Contribute > Curate? -->
-
-#art
-<!-- 
-Ten Digital Readymades, however, and the link it sets up between Duchamp and process, is how computation actually serves to reinvigorate our understanding of the radical aspects of the readymade concept.
--->
-
-#art
-<!-- 
-MTAA's Ten Digital Readymades (2000), created by entering the term 'ready made' into a search engine and archiving those search results, exemplified the sense that material on the web offers rich fodder for artists to develop work, with or without heavy subsequent alteration by artists (Kasprzak 2009).
--->
-
-<!-- Error 404: No Aesthetic Found -->
-
-#people
-<!-- 
-In Maps Bartholl places actual-size Google balloons in public spaces to investigate the aesthetic of "the red map marker of the location based search engine Google Maps" (Bartholl 2006). Clearly
--->
-
-#art
-<!-- 
-A glitch design is a glitch design when captured in the photograph of a billboard or flyer. Similarly
- -->
-
-#barthol
-<!-- 
-Dead Drops and Topshot Helmet sit uncomfortably under the New Aesthetic meme. The meme lives online, while these artworks live in the world, are conceptually grounded in their materiality, and convey their concepts and material-semiotic negotiations through embodied experiences.
-
-Screenshots of Despair.
- -->
-
-
-<!--
-Putting Fuller's quote into context, he seems to support the idea that assembling something out of parts that 'belong to a collectively available resource' provides a more or less direct lineage from the earliest Dadaists collage art, to net art, to surf clubs, to Tumblr, and to Pinterest. Fuller's assertion is that this kind of online bricolage brings us out of 'standard issue art modes' confronts the perennial battle between low and high culture, i.e., between the talented artists and the hopeless amateurs, since anyone can access the collective resource online, appropriate things, remix them and start collections.
--->
-
-
-
-<!-- New Aesthetic New Anxieties -->
-
-#art
-<!--
-Perhaps an exhibition like The Power of Things was difficult to read as critical, because a critical exhibition - in traditional electronic art terms - typically entails a bunch of computer screens and robotic sculptures in a dark industrial space, brought together under a dystopian scenario serving as an exhibition theme. Such classic ‘critical’ electronic art exhibitions, however, inform an antiquated interactive electronic art aesthetic - one that dictates that critically looking at technology’s impact on our world is best achieved by displaying hardware at work, and dispensing with frivolous topics such as beauty. Critical art, however, is also a question of sense and perception, of transformative forms and diagrams. The approach of The Power of Things explored relations between different materials in the world. This involved an aesthetics aimed at generating new hybrid or more-than-human collectives.
--->
-
-#art
-<!--
-Manovich infamously referred to this as the difference between 'Turing-land' and 'Duchamp-land' (Manovich, 1996). Curator Catherine David expressed the Duchamp-land view in an early statement when she suggested "technology in itself is not a category according to which I judge works. This type of categorization is just as outmoded as division into classical art genres (painting, sculpture…). I am interested in the idea of a project; ideally the means of realizing the project should arise from the idea itself" (1997).
--->
-
-
-
-
 
 
 
