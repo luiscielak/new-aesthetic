@@ -44,11 +44,11 @@ One of the core themes of the New Aesthetic has been our collaboration with tech
 -->
 
 
-#### On Beauty
+<!-- #### On Beauty -->
 <!-- Beauty info -->
 <!-- What is beauty? What is art?  -->
 
-#### On Newness
+<!-- #### On Newness -->
 <!-- New, modern, contemporary -->
 <!-- What is new? What is the present? What is the future? What is the past? -->
 
@@ -62,9 +62,9 @@ As communications guru Marshall McLuhan said in one of his numerous probes, "At 
 New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
 -->
 
-#### On Technology
+<!-- #### On Technology -->
 
-Let us not forget that technology is just a tool. 
+<!-- Let us not forget that technology is just a tool.  -->
 
 <!-- 
 The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
@@ -231,11 +231,11 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 
 <!-- Harvey Nichols, Woman, 2 #missing-img -->
 
-Harvey Nichols, Woman, 2
+<!-- Harvey Nichols, Woman, 2 -->
 
 <!-- describe img-missing ads -->
 
-## Criticism
+<!-- ## Criticism -->
 
 <!-- 
 Honor Harger captured a sense of the more tragic outcomes of the debate with some sober reflections. She highlighted, in particular, her dismay at the extreme reactions to Bridle's Tumblr, especially the 'sneering insults' of his work. By contrast, she insists, that this project was never a 'movement', but a personal project. It was never concerned with media art practice, and judging it within those terms is at best 'pointless', at worst, 'unfair',
@@ -250,10 +250,6 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 
 "This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads." (Watz 2012b)
 
-#conclusion
-
-
-
 
 - - -
 
@@ -261,7 +257,7 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 
 >> Franz Kafka
 
-
+<br>
 
 <!-- Notes 
 ===================================================================== -->
