@@ -147,9 +147,6 @@ Aram Bartholl is a Germany based digital artist that believes that pixels have e
 
 Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
 
-http://meshu.io
-
-
 #### Architecture
 
 Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
@@ -303,11 +300,13 @@ Manovich infamously referred to this as the difference between 'Turing-land' and
 
 [10]: http://schedule.sxsw.com/2012/events/event_IAP11102 "Seeing Like Digital Devices"
 
-[11]: Tool-Being: Heidegger and the Metaphysics of Objects. "Harman, Graham (2002)"
+[11]: Tool-Being_Heidegger-and-the-Metaphysics-of-Objects. "Harman, Graham (2002)"
 
 [12]: http://www.thecreatorsproject.com/blog/the-new-aesthetic-revisited-the-debate-continues "Creators Project"
 
 [13]: http://www.scribd.com/doc/96778128/20120610-A-Movement-in-3-Parts-1-Shock-Awe-2-Algorithm-Critique-3-The-New-Aesthetic-And-Its-Discontents-Marius-Watz-Eyeo-2012 "Algorithm Critique"
+
+[14]: http://meshu.io "Meshu"
 
 
 
