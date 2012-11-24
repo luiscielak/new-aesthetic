@@ -9,13 +9,17 @@
         - Find 3 concrete examples of that theory in practice. 
 -->
 
-<!-- computational design, generative art, digital fabrication -->
+<!-- Thoughts
+====================================================================    
 
 1. Look around once in a while.
 
 2. Think about the things that you think about.
 
 3. Wonder what if, and how come.
+
+** computational design, generative art, digital fabrication **
+-->
 
 
 
@@ -26,12 +30,9 @@
 
 The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3]
 
-James Bridle introduced the term on May 6th, 2011. "For a while now, I've been collecting images and things that seem to approach a New Aesthetic of the future [...] we've got frustrated with the NASA extropianism space-future, the failure of jet-packs, and we need to see the technologies we actually have with a new wonder. Consider this a mood-board for unknown products." [3] Referencing to his Tumblr blog new-aesthetic.tumblr.com, where Bridle has been collecting the New Aesthetic artifacts that cross his path. [9] 
-
-In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explore the effects of the new media, products and artworks, and discuss the ways in which ways of seeing are increasingly transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
-
 "For so long we've stared up at space in wonder, but with cheap satellite imagery and cameras on kites and RC helicopters, we're looking at the ground with new eyes, to see structures and infrastructures." [7] "The socio-political asymmetries perpetuated by data-mining, the privatized social graph, facial recognition technologies, drone attacks, and camouflage are swept aside by the positive message to make the world "more exciting, make it better." [8]
 
+Greg Borenstein argues that the New Aesthetic is a "visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century."[3] This mindset is based on the Object-Oriented Ontology (OOO), a metaphysical movement that rejects that humans existence is superior over the existence of nonhuman objects.[11]
 
     
 <!--  
@@ -41,24 +42,20 @@ One of the core themes of the New Aesthetic has been our collaboration with tech
 
 <!-- Beauty -->
 
-What is beauty? What is art? 
+<!-- What is beauty? What is art?  -->
 
 <!-- New, modern, contemporary -->
 
 <!-- What is new? What is the present? What is the future? What is the past? -->
 
-The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future -- looking ahead allows us to drift through the present with a unwritten promises of a better and more rewarding future. 
-
-It is only after we have lived the past, that we can see the present in constant change. Previous experiences are the only proof of existence that we have.
-
-   
-    
-    { current usage }
-
-
 ## Origins
 
-    { origins }
+James Bridle introduced the term on May 6th, 2011. "For a while now, I've been collecting images and things that seem to approach a New Aesthetic of the future [...] we've got frustrated with the NASA extropianism space-future, the failure of jet-packs, and we need to see the technologies we actually have with a new wonder. Consider this a mood-board for unknown products." [3] Referencing to his Tumblr blog new-aesthetic.tumblr.com, where Bridle has been collecting the New Aesthetic artifacts that cross his path. [9] 
+
+In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explore the effects of the new media, products and artworks, and discuss the ways in which ways of seeing are increasingly transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
+
+The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future - looking ahead allows us to drift through the present with an unwritten promises of a better and more rewarding future. It is only after we have lived the past, that we can see the present in constant change. Previous experiences are the only proof of existence that we have.
+
 
 ## People
 
@@ -111,38 +108,36 @@ The 'Algorithm Police' problematic friends:
     - Polygon subdivision
 
 <!-- { current work / projects } -->
-Some of Marius' current work include 'Probability Lattice'. Parametric objects, dimensions variable (typically 14x14x14 cm). ABS plastic, 3D printed on a Makerbot Replicator. 
+Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
 
 
 
 ### Patrick Jean
 
-    { bio }
+<!-- { bio } -->
     
-    { ideology }
+<!-- { ideology } -->
 
-    {current work / projects }
+<!-- {current work / projects } -->
 
 
 ### Aram Barthol
 
 Aram Bartholl is a Germany based digital artist that believes that pixels have exhausted their intended binary existence and have now invaded the physical world.
     
-    { ideology }
+<!-- { ideology } -->
+
+<!-- Current Work -->
 
     - Map (2006)
 <!-- http://datenform.de/map.html -->
     - Are you Human (2009)
 <!-- http://datenform.de/areyouhuman.html -->
 
-http://en.wikipedia.org/wiki/CAPTCHA
+<!-- http://en.wikipedia.org/wiki/CAPTCHA -->
 
 
-### Greg Bornstein
 
-<!-- 
-Greg Borenstein, who suggested that when viewed through Object Oriented Ontology (OOO), the New Aesthetic is a “visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century” (2012).
--->
 
 ## Examples 
 
@@ -154,12 +149,7 @@ Greg Borenstein, who suggested that when viewed through Object Oriented Ontology
 
 #### Architecture
 
-Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. 
-
-<!-- "Some architects can look at a building and tell you which version of autodesk was used to create it." 
-
-The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [#sxaesthetic][1]
- -->
+Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
 
 
 #### Fashion
@@ -169,11 +159,18 @@ The world is defined by our visualisations of it. (Someone who makes such things
 <!-- nervous systems + @shashasha -->
 
 
+
+
 #### Business
 
 <!-- Chipotle PR + 'Lorem Ipsum bag' -->
 Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and design professional as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
 
+<!-- Harvey Nichols, Woman, 2 #missing-img -->
+
+Harvey Nichols, Woman, 2 [12]
+
+![Alt text](/public/img/dimitri_daniloff_harvey_nichols_beseen3_detail_em.jpg "Optional title")
 
 
 
@@ -193,6 +190,95 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 > It's 2011, and I have no idea what anything is or does anymore.
 
 >> Taylor, in Bridle 2011 [3]
+
+
+
+
+
+
+<!-- Notes 
+===================================================================== -->
+
+<!-- New Anxieties -->
+
+<!-- 
+Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic instruction in 70's psychoanalytic feminist screen theory. In her blog post at The State, entitled 'Curation, Gender and the New Aesthetic', Aima awkwardly suggested that the attraction of the New Aesthetic might lie in the possibility to "briefly inhabit a (conventionally) feminised subjectivity?" (2012b). In her words,
+ -->
+
+
+<!-- 
+The New Aesthetic is about being looked at by humans and by machines — by drones, surveillance cameras, people tagging you on Facebook — about being the object of the gaze. It’s about looking through the eyes of a machine and seeing the machine turn its beady LEDs on you. It’s about the dissolution of privacy and reproductive rights, and the monitoring, mapping, and surveillance of the (re)gendered (re)racialised body, and building our own super-pervasive panopticon. (Aima 2012)
+-->
+
+<!-- 
+Honor Harger captured a sense of the more tragic outcomes of the debate with some sober reflections. She highlighted, in particular, her dismay at the extreme reactions to Bridle's Tumblr, especially the 'sneering insults' of his work. By contrast, she insists, that this project was never a 'movement', but a personal project. It was never concerned with media art practice, and judging it within those terms is at best 'pointless', at worst, 'unfair',
+-->
+
+<!-- Curational Reading -->
+
+<!-- 
+As communications guru Marshall McLuhan said in one of his numerous probes, "At the very high speed of living, everybody needs a new career and a new job and a totally new personality every ten years" (McLuhan 2002: 114-115).
+-->
+
+
+<!-- 
+New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
+-->
+
+<!-- 
+The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
+-->
+
+
+<!-- Collect, Remix, Contribute > Curate? -->
+
+<!-- 
+Ten Digital Readymades, however, and the link it sets up between Duchamp and process, is how computation actually serves to reinvigorate our understanding of the radical aspects of the readymade concept.
+-->
+
+<!-- 
+MTAA's Ten Digital Readymades (2000), created by entering the term 'ready made' into a search engine and archiving those search results, exemplified the sense that material on the web offers rich fodder for artists to develop work, with or without heavy subsequent alteration by artists (Kasprzak 2009).
+-->
+
+<!-- Error 404: No Aesthetic Found -->
+
+<!-- 
+In Maps Bartholl places actual-size Google balloons in public spaces to investigate the aesthetic of "the red map marker of the location based search engine Google Maps" (Bartholl 2006). Clearly
+-->
+
+<!-- 
+A glitch design is a glitch design when captured in the photograph of a billboard or flyer. Similarly
+ -->
+
+<!-- 
+Dead Drops and Topshot Helmet sit uncomfortably under the New Aesthetic meme. The meme lives online, while these artworks live in the world, are conceptually grounded in their materiality, and convey their concepts and material-semiotic negotiations through embodied experiences.
+
+Screenshots of Despair.
+ -->
+
+
+<!--
+Putting Fuller's quote into context, he seems to support the idea that assembling something out of parts that 'belong to a collectively available resource' provides a more or less direct lineage from the earliest Dadaists collage art, to net art, to surf clubs, to Tumblr, and to Pinterest. Fuller's assertion is that this kind of online bricolage brings us out of 'standard issue art modes' confronts the perennial battle between low and high culture, i.e., between the talented artists and the hopeless amateurs, since anyone can access the collective resource online, appropriate things, remix them and start collections.
+-->
+
+
+
+<!-- New Aesthetic New Anxieties -->
+
+<!--
+Perhaps an exhibition like The Power of Things was difficult to read as critical, because a critical exhibition - in traditional electronic art terms - typically entails a bunch of computer screens and robotic sculptures in a dark industrial space, brought together under a dystopian scenario serving as an exhibition theme. Such classic ‘critical’ electronic art exhibitions, however, inform an antiquated interactive electronic art aesthetic - one that dictates that critically looking at technology’s impact on our world is best achieved by displaying hardware at work, and dispensing with frivolous topics such as beauty. Critical art, however, is also a question of sense and perception, of transformative forms and diagrams. The approach of The Power of Things explored relations between different materials in the world. This involved an aesthetics aimed at generating new hybrid or more-than-human collectives.
+-->
+
+
+<!--
+Manovich infamously referred to this as the difference between 'Turing-land' and 'Duchamp-land' (Manovich, 1996). Curator Catherine David expressed the Duchamp-land view in an early statement when she suggested "technology in itself is not a category according to which I judge works. This type of categorization is just as outmoded as division into classical art genres (painting, sculpture…). I am interested in the idea of a project; ideally the means of realizing the project should arise from the idea itself" (1997).
+-->
+
+
+
+
+
+
 
 
 
@@ -222,11 +308,9 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and des
 
 [10]: http://schedule.sxsw.com/2012/events/event_IAP11102 "Seeing Like Digital Devices"
 
+[11]: Tool-Being: Heidegger and the Metaphysics of Objects. "Harman, Graham (2002)"
 
-
-
-<!-- Notes 
-===================================================================== -->
+[12]: http://www.thecreatorsproject.com/blog/the-new-aesthetic-revisited-the-debate-continues "Creators Project"
 
 
 
