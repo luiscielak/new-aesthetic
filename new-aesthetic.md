@@ -31,32 +31,21 @@
 
 ## Description
 
-The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3]
+The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle'so own words "the New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] The life that we used to know once upon a time has dramatically changed. We are beyond the tipping point where technology has influenced every industry and fundamentally changed them at their core. Let us not forget that technology is just a tool. It is the process, the systems and actors around it that must adapt to co-exist with technology-driven frameworks. { megaphone vs iPod example }
 
-"For so long we've stared up at space in wonder, but with cheap satellite imagery and cameras on kites and RC helicopters, we're looking at the ground with new eyes, to see structures and infrastructures." [7] "The socio-political asymmetries perpetuated by data-mining, the privatized social graph, facial recognition technologies, drone attacks, and camouflage are swept aside by the positive message to make the world "more exciting, make it better." [8]
+<!-- quote its 2011 bla bla bla -->
 
-Greg Borenstein argues that the New Aesthetic is a "visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century."[3] This mindset is based on the Object-Oriented Ontology (OOO), a metaphysical movement that rejects that humans existence is superior over the existence of nonhuman objects.[11]
-        
+"For so long we've stared up at space in wonder, but with cheap satellite imagery and cameras on kites and RC helicopters, we're looking at the ground with new eyes, to see structures and infrastructures." [7] "The socio-political asymmetries perpetuated by data-mining, the privatized social graph, facial recognition technologies, drone attacks, and camouflage are swept aside by the positive message to make the world "more exciting, make it better." [8] The life that we knew used to be at eye-level. Now we see our world through Google Maps and Google Earth. Greg Borenstein argues that the New Aesthetic is a "visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century."[3] This mindset is based on the Object-Oriented Ontology (OOO), a metaphysical movement that rejects that humans existence is superior over the existence of nonhuman objects.[11]
+
 
 <!--  
 One of the core themes of the New Aesthetic has been our collaboration with technology, whether that’s bots, digital cameras or satellites (and whether that collaboration is conscious or unconscious), and a useful visual shorthand for that collaboration has been glitchy and pixelated imagery, a way of seeing that seems to reveal a blurring between “the real” and “the digital”, the physical and the virtual, the human and the machine. It should also be clear that this ‘look’ is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive. [#sxaesthetic][1]
-
 -->
-
-
-<!-- #### On Beauty -->
-<!-- Beauty info -->
-<!-- What is beauty? What is art?  -->
-
-<!-- #### On Newness -->
-<!-- New, modern, contemporary -->
-<!-- What is new? What is the present? What is the future? What is the past? -->
 
 
 <!-- 
 As communications guru Marshall McLuhan said in one of his numerous probes, "At the very high speed of living, everybody needs a new career and a new job and a totally new personality every ten years" (McLuhan 2002: 114-115).
 -->
-
 
 <!-- 
 New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
@@ -64,7 +53,6 @@ New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' i
 
 <!-- #### On Technology -->
 
-<!-- Let us not forget that technology is just a tool.  -->
 
 <!-- 
 The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
@@ -83,22 +71,17 @@ James Bridle introduced the term on May 6th, 2011. "For a while now, I've been c
 
 In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explore the effects of the new media, products and artworks, and discuss the ways in which ways of seeing are increasingly transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
 
-The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future - looking ahead allows us to drift through the present with unwritten promises of a better and more rewarding future. It is only after we have lived a past, that we can see the present in constant change. Previous experiences are the only proof of existence that we have.
-
+The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future. Looking ahead allows us to drift through the present with unwritten promises of a better and more rewarding future. It is only after we have lived a past, that we can see the present in constant motion. Previous experiences are the only proof of existence that we have. The theme of the New Aesthetic is a collaboration between the human and the machine. It is "a way of seeing that seems to reveal a blurring between "the real" and "the digital [...] this 'look' is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive." [1]
 
 ## People
 
-
-
 ### Marius Watz
 
-Marius Watz is Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as output.
+Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the 'art' system. The art here is the system, while the resulting shaped and form are just a byproduct of the system itself.
 
-Marius Watz frequently contributes. As an evangelist of the generative, he started the Generator-X conference showcasing latest generative strategies and software processes in digital art, architecture and design, has curated several software art exhibitions and teaches frequently coding and modeling workshops for beginners, freelancers and professionals. [3]
+Marius makes art based on algorithms. 
 
-Marius makes art based on parametric systems. 
-
-"Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result."
+"Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
 
 These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. 
 
@@ -108,8 +91,11 @@ The 'Algorithm Police' problematic friends include circle packing, reaction diff
 Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
 
 
-<!-- 
 
+<!-- Marius Watz frequently contributes. As an evangelist of the generative, he started the Generator-X conference showcasing latest generative strategies and software processes in digital art, architecture and design, has curated several software art exhibitions and teaches frequently coding and modeling workshops for beginners, freelancers and professionals. [3] -->
+
+
+<!-- 
 The Algorithm Thought Police'
 
 Are not neutral vessels. Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprints on the result. […] “speaking” through algorithms, your thought patterns and modes of expression are shaped by their syntax. (Watz 2012a)
@@ -121,8 +107,7 @@ Watz's affectionate term, would include, among many others: Circle Packing (whic
 Marius Watz, writing on the Creator's Project in a series of responses to Sterling’s essay, argued the case that this aspect was deceptive, "most of what NA offers up for examination is not all that new. Technologies like machine vision and geo-location are old by most standards” (2012b). In his reading, a sense of everyday practices and the ubiquity of digital and networked systems were claimed as distinctive instead: “what is new is their integration into our lives to the point where we are bringing them to bed” (2012b).
 
 It may be, that after a long generation of 'New Media,' 'computer art,' 'digital art,' 'device art,' 'net.art,' 'code art,' and similar always-new pseudonyms, we’ve found a better perspective. We’ve paid a bill in blood and struggle, and a generational shift has occurred. It’s like watching a generation slog it out in the muddy barbed wire, and then seeing a drone appear overhead ... The barbed-wire and bayonet era of net-art is over. It is one with Ypres and Verdun now, and its trenches will fill in with grass. It will never return. (Sterling 2012c)
-
- -->
+-->
 
 <!-- { ideology : algorithm police } -->
 
@@ -165,7 +150,7 @@ Screenshots of Despair.
  -->
 
 
-### Rachel-Aima
+<!-- ### Rachel-Aima -->
 <!-- 
 Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic instruction in 70's psychoanalytic feminist screen theory. In her blog post at The State, entitled 'Curation, Gender and the New Aesthetic', Aima awkwardly suggested that the attraction of the New Aesthetic might lie in the possibility to "briefly inhabit a (conventionally) feminised subjectivity?" (2012b). In her words,
  -->
