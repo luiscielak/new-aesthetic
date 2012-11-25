@@ -30,8 +30,9 @@
 ===================================================================== -->
 
 ## Description
+- - -
 
-The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle'so own words "the New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] The life that we used to know once upon a time has dramatically changed. We are beyond the tipping point where technology has influenced every industry and fundamentally changed them at their core. Let us not forget that technology is just a tool. It is the process, the systems and actors around it that must adapt to co-exist with technology-driven frameworks. { megaphone vs iPod example }
+The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle's own words "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] The life that we used to know once upon a time has dramatically changed. We are beyond the tipping point where technology has influenced every industry and fundamentally changed them at their core. Let us not forget that technology is just a tool. It is the process, the systems and actors around it that must adapt to co-exist with technology-driven frameworks. { megaphone vs iPod example }
 
 <!-- quote its 2011 bla bla bla -->
 
@@ -66,6 +67,7 @@ Putting Fuller's quote into context, he seems to support the idea that assemblin
 
 
 ## Origins
+- - -
 
 James Bridle introduced the term on May 6th, 2011. "For a while now, I've been collecting images and things that seem to approach a New Aesthetic of the future [...] we've got frustrated with the NASA extropianism space-future, the failure of jet-packs, and we need to see the technologies we actually have with a new wonder. Consider this a mood-board for unknown products." [3] Referencing to his Tumblr blog new-aesthetic.tumblr.com, where Bridle has been collecting the New Aesthetic artifacts that cross his path. [9] 
 
@@ -74,21 +76,27 @@ In March 15, 2012, James Bridle put together a panel at SXSW to explore topics o
 The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future. Looking ahead allows us to drift through the present with unwritten promises of a better and more rewarding future. It is only after we have lived a past, that we can see the present in constant motion. Previous experiences are the only proof of existence that we have. The theme of the New Aesthetic is a collaboration between the human and the machine. It is "a way of seeing that seems to reveal a blurring between "the real" and "the digital [...] this 'look' is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive." [1]
 
 ## People
+- - -
 
 ### Marius Watz
 
-Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the 'art' system. The art here is the system, while the resulting shaped and form are just a byproduct of the system itself.
-
-Marius makes art based on algorithms. 
+Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the 'art' system. The art here is the system, while the resulting shapes and forms are just a byproduct of the system itself.
 
 "Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
 
 These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. 
 
-The 'Algorithm Police' problematic friends include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13]
+Watz refers to these systematic cliches as "The Algorithm Police problematic friends". These common algorithms include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13]
+
+With this argument Marius highlights that there are common algorithm out there and people should be able to identify them and spot them in the wild, and as creators, to stay away from them.
 
 <!-- { current work / projects } -->
 Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
+
+>This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads.
+
+>> Marius Watzh (Watz 2012b) [#]
+
 
 
 
@@ -161,7 +169,7 @@ The New Aesthetic is about being looked at by humans and by machines — by dron
 
 
 ## Examples 
-
+- - -
 
 #### Art
 
@@ -199,20 +207,21 @@ Manovich infamously referred to this as the difference between 'Turing-land' and
 <!-- nervous systems -->
 
 <!-- Meshu -->
-Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places /points. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
+Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places as points in a map. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
 
 #### Architecture
 
-Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of an artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. (Someone who makes such things told me: what they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
+Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of the artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. What they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
 
 <!-- examples; chairs, structures -->
 
-#### Business
+#### Advertising
 
-Marketing and advertisement firms have been heavily influenced by this new medium. Campaigns all around the world have been borrowing these digital frenzies with means to sell products and services. Some examples are Mexican fast-food chain, Chipotle and Harvey Nichols ad campaign by UAE-based advertising agency Y&R Dubai.
+Marketing and advertisement firms have been heavily influenced by this new medium as well. Campaigns all around the world have been borrowing these digital frenzies with means to sell products and services. Some examples are Mexican fast-food chain, Chipotle and Harvey Nichols ad campaign by UAE-based advertising agency Y&R Dubai.
 
 <!-- Chipotle PR + 'Lorem Ipsum bag' -->
-Chipotle PR team utilized the standard 'Lorem Impsum' text used by print and design professional as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
+<!-- @FIX -->
+Chipotle PR team utilized the standard 'Lorem Impsum' text used by the print industry as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
 
 <!-- Harvey Nichols, Woman, 2 #missing-img -->
 
@@ -229,14 +238,14 @@ Honor Harger captured a sense of the more tragic outcomes of the debate with som
 
 ## Conclusion
 
-New or not new, digital or analog, virtual or physical. Regardless of what your personal opinion or biased is towards technology and new media, there is something that lives and breaths with our civilization that cannot be denied or ignored. The drones, the pixels, the server errors, the ones and zeros. They are now part of our community. Our families.
+- - - 
 
-Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid as you see adequately.
+New or not new, digital or analog, virtual or physical. Regardless of what your personal opinion or biased is towards technology and new media, there is something alive among us that lives and breaths with our civilization that cannot be denied or ignored. The drones, the pixels, the server errors, the ones and zeros. They are now part of our community. Our families.
 
-"This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads." (Watz 2012b)
+Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid them as you see adequately.
 
 
-- - -
+
 
 > You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
 
