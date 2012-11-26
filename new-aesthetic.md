@@ -4,8 +4,6 @@
 >> Taylor, in Bridle 2011 [3]
 
 
-
-
 <!-- 
     Research the theory: 
         - What it is, 
