@@ -4,6 +4,9 @@
 >> Taylor, in Bridle 2011 [3]
 
 
+
+
+
 <!-- 
     Research the theory: 
         - What it is, 
@@ -14,6 +17,8 @@
 
 <!-- Description
 ===================================================================== -->
+
+<!-- [img](public/img/img_01.jpg) -->
 
 ## Description
 - - -
@@ -93,7 +98,7 @@ The New Aesthetic has not only being manifesting itself in the arts. This phenom
 <!-- nervous systems -->
 
 <!-- Meshu -->
-Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places as points in a map. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped.
+Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places as points in a map. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped. [14]
 
 ![http://meshu.io](http://meshu.io/static/images/diagrams/postcard_shoot_web.jpg)
 
@@ -112,6 +117,9 @@ Marketing and advertisement firms have been heavily influenced by this new mediu
 Chipotle PR team utilized the standard 'Lorem Impsum' text used by the print industry as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
 
 <!-- Harvey Nichols, Woman, 2 #missing-img -->
+
+![image-alt](public/img/img_01.jpg)
+
 
 <!-- Harvey Nichols, Woman, 2 -->
 
