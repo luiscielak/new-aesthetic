@@ -12,59 +12,17 @@
         - Find 3 concrete examples of that theory in practice. 
 -->
 
-<!-- Thoughts
-====================================================================    
-
-1. Look around once in a while.
-
-2. Think about the things that you think about.
-
-3. Wonder what if, and how come.
-
-** computational design, generative art, digital fabrication **
--->
-
-
-
 <!-- Description
 ===================================================================== -->
 
 ## Description
 - - -
 
-The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle's own words "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] The life that we used to know once upon a time has dramatically changed. We are beyond the tipping point where technology has influenced every industry and fundamentally changed them at their core. Let us not forget that technology is just a tool. It is the process, the systems and actors around it that must adapt to co-exist with technology-driven frameworks. { megaphone vs iPod example }
+The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle's own words "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] 
 
-<!-- quote its 2011 bla bla bla -->
+The life that we used to know once upon a time has dramatically changed. We are beyond the tipping point where technology has influenced every industry and fundamentally changed them at their core. Let us not forget that technology is just a tool. It is the process, the systems and actors around it that must adapt to coexist with technology-driven frameworks.
 
-"For so long we've stared up at space in wonder, but with cheap satellite imagery and cameras on kites and RC helicopters, we're looking at the ground with new eyes, to see structures and infrastructures." [7] "The socio-political asymmetries perpetuated by data-mining, the privatized social graph, facial recognition technologies, drone attacks, and camouflage are swept aside by the positive message to make the world "more exciting, make it better." [8] The life that we knew used to be at eye-level. Now we see our world through Google Maps and Google Earth. Greg Borenstein argues that the New Aesthetic is a "visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century."[3] This mindset is based on the Object-Oriented Ontology (OOO), a metaphysical movement that rejects that humans existence is superior over the existence of nonhuman objects.[11]
-
-
-<!--  
-One of the core themes of the New Aesthetic has been our collaboration with technology, whether that’s bots, digital cameras or satellites (and whether that collaboration is conscious or unconscious), and a useful visual shorthand for that collaboration has been glitchy and pixelated imagery, a way of seeing that seems to reveal a blurring between “the real” and “the digital”, the physical and the virtual, the human and the machine. It should also be clear that this ‘look’ is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive. [#sxaesthetic][1]
--->
-
-
-<!-- 
-As communications guru Marshall McLuhan said in one of his numerous probes, "At the very high speed of living, everybody needs a new career and a new job and a totally new personality every ten years" (McLuhan 2002: 114-115).
--->
-
-<!-- 
-New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
--->
-
-<!-- #### On Technology -->
-
-
-<!-- 
-The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
--->
-
-
-<!--
-Putting Fuller's quote into context, he seems to support the idea that assembling something out of parts that 'belong to a collectively available resource' provides a more or less direct lineage from the earliest Dadaists collage art, to net art, to surf clubs, to Tumblr, and to Pinterest. Fuller's assertion is that this kind of online bricolage brings us out of 'standard issue art modes' confronts the perennial battle between low and high culture, i.e., between the talented artists and the hopeless amateurs, since anyone can access the collective resource online, appropriate things, remix them and start collections.
--->
-
-
+"For so long we've stared up at space in wonder, but with cheap satellite imagery and cameras on kites and RC helicopters, we're looking at the ground with new eyes, to see structures and infrastructures." [7] "The socio-political asymmetries perpetuated by data-mining, the privatized social graph, facial recognition technologies, drone attacks, and camouflage are swept aside by the positive message to make the world "more exciting, make it better." [8] The life that we knew used to be at eye-level. Now we see our world through Google Maps and Google Earth, like birds. Greg Borenstein argues that the New Aesthetic is a "visible eruption of the mutual empathy between us and a class of new objects that are native to the 21st century."[3] This mindset is based on the Object-Oriented Ontology (OOO), a metaphysical movement that rejects that humans existence is superior over the existence of non-human objects.[11]
 
 ## Origins
 - - -
@@ -78,77 +36,20 @@ The past is needed in order to be able to contextualize the present. The present
 ## People
 - - -
 
-### Marius Watz
-
-Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the 'art' system. The art here is the system, while the resulting shapes and forms are just a byproduct of the system itself.
-
-"Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
-
-These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. 
-
-Watz refers to these systematic cliches as "The Algorithm Police problematic friends". These common algorithms include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13]
-
-With this argument Marius highlights that there are common algorithm out there and people should be able to identify them and spot them in the wild, and as creators, to stay away from them.
-
-<!-- { current work / projects } -->
-Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
-
->This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads.
-
->> Marius Watzh (Watz 2012b) [#]
-
-
-
-
-<!-- Marius Watz frequently contributes. As an evangelist of the generative, he started the Generator-X conference showcasing latest generative strategies and software processes in digital art, architecture and design, has curated several software art exhibitions and teaches frequently coding and modeling workshops for beginners, freelancers and professionals. [3] -->
-
-
-<!-- 
-The Algorithm Thought Police'
-
-Are not neutral vessels. Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprints on the result. […] “speaking” through algorithms, your thought patterns and modes of expression are shaped by their syntax. (Watz 2012a)
-
-increasingly ubiquitous texture of reality, a skin that's being overlaid in buildings, fashion, cars, jewelry, print publications, and chairs.
-
-Watz's affectionate term, would include, among many others: Circle Packing (which define an area in circles progressively without letting them enter in contact, until the area is completely covered), Polygon subdivision (different techniques of splitting an area in polygonal shapes) and boids (the simulations of the behavior of birds flocking); or voronoi, which is "the partitioning of a plane with n points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other"
-
-Marius Watz, writing on the Creator's Project in a series of responses to Sterling’s essay, argued the case that this aspect was deceptive, "most of what NA offers up for examination is not all that new. Technologies like machine vision and geo-location are old by most standards” (2012b). In his reading, a sense of everyday practices and the ubiquity of digital and networked systems were claimed as distinctive instead: “what is new is their integration into our lives to the point where we are bringing them to bed” (2012b).
-
-It may be, that after a long generation of 'New Media,' 'computer art,' 'digital art,' 'device art,' 'net.art,' 'code art,' and similar always-new pseudonyms, we’ve found a better perspective. We’ve paid a bill in blood and struggle, and a generational shift has occurred. It’s like watching a generation slog it out in the muddy barbed wire, and then seeing a drone appear overhead ... The barbed-wire and bayonet era of net-art is over. It is one with Ypres and Verdun now, and its trenches will fill in with grass. It will never return. (Sterling 2012c)
--->
-
-<!-- { ideology : algorithm police } -->
-
-
-### Patrick Jean
-
-<!-- { bio } -->
-    
-<!-- { ideology } -->
-
-<!-- {current work / projects } -->
-
-
-### Aram Barthol
+#### Aram Barthol
 
 Aram Bartholl is a Germany based digital artist that believes that pixels have exhausted their intended binary existence and have now invaded the physical world.
-    
 
-<!-- Current Work -->
+In Maps (2009) Bartholl places actual-size Google balloons in public spaces to investigate the aesthetic of "the red map marker of the location based search engine Google Maps." [19] 
 
+'Are you Human?' is another project where Barhtoll brings digital artifacts alive into the physical world. He displays CAPTCHA designs as graffiti tags. CATPTCHA is an acronym that stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart' and refers to a test used in computing to verify that the user is indeed a human being, and not a computer generated script trying to force entrance into a system. [20]
 
-<!-- { ideology } -->
-
-<!-- - Maps (2006) -->
-<!-- http://datenform.de/map.html -->
-
-<!-- 
-In Maps Bartholl places actual-size Google balloons in public spaces to investigate the aesthetic of "the red map marker of the location based search engine Google Maps" (Bartholl 2006).
--->
 
 <!-- - Are you Human (2009) -->
 <!-- http://datenform.de/areyouhuman.html -->
 <!-- http://en.wikipedia.org/wiki/CAPTCHA -->
+
+
 
 <!-- Dead Drops (####) -->
 <!-- 
@@ -158,46 +59,31 @@ Screenshots of Despair.
  -->
 
 
-<!-- ### Rachel-Aima -->
-<!-- 
-Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic instruction in 70's psychoanalytic feminist screen theory. In her blog post at The State, entitled 'Curation, Gender and the New Aesthetic', Aima awkwardly suggested that the attraction of the New Aesthetic might lie in the possibility to "briefly inhabit a (conventionally) feminised subjectivity?" (2012b). In her words,
- -->
+#### Patrick Jean
 
-<!-- 
-The New Aesthetic is about being looked at by humans and by machines — by drones, surveillance cameras, people tagging you on Facebook — about being the object of the gaze. It's about looking through the eyes of a machine and seeing the machine turn its beady LEDs on you. It's about the dissolution of privacy and reproductive rights, and the monitoring, mapping, and surveillance of the (re)gendered (re)racialised body, and building our own super-pervasive panopticon. (Aima 2012)
--->
+Patrick Jean is a French 2D and 3D graphic designer and filmmaker. His work is inspired by video-game concepts from his childhood.
+
+In 2008 Patrick created a street-art installation in NYC's Lower East Side where pipes are bursting out pixellated waters, instead of the liquid form one would expect. [16] In 2010, Jean wrote and directed Pixels, a short film about an invasion in NYC by 8-bit creatures based on video games such as Space Invaders, Pac-Man, and Tetris. [17]
+
+
+#### Marius Watz
+
+Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the system. The art here is the system, while the resulting shapes and forms are just a byproduct of the system itself. "Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
+
+These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. Watz refers to some of these systematic cliches as "The Algorithm Police problematic friends". These common algorithms include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13] With this argument Marius highlights that there are common algorithm out there and people should be able to identify them and spot them in the wild, and as creators, to steer away from them.
+
+Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
+
+> This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads.
+
+>> Marius Watz, 2012 [21]
+
 
 
 ## Examples 
 - - -
 
-#### Art
-
-<!-- @ideas : GIF art,  -->
-
-<!-- 
-Ten Digital Readymades, however, and the link it sets up between Duchamp and process, is how computation actually serves to reinvigorate our understanding of the radical aspects of the readymade concept.
--->
-
-<!-- 
-MTAA's Ten Digital Readymades (2000), created by entering the term 'ready made' into a search engine and archiving those search results, exemplified the sense that material on the web offers rich fodder for artists to develop work, with or without heavy subsequent alteration by artists (Kasprzak 2009).
--->
-
-<!-- 
-A glitch design is a glitch design when captured in the photograph of a billboard or flyer. Similarly
--->
-
-
-<!--
-Perhaps an exhibition like The Power of Things was difficult to read as critical, because a critical exhibition - in traditional electronic art terms - typically entails a bunch of computer screens and robotic sculptures in a dark industrial space, brought together under a dystopian scenario serving as an exhibition theme. Such classic ‘critical’ electronic art exhibitions, however, inform an antiquated interactive electronic art aesthetic - one that dictates that critically looking at technology’s impact on our world is best achieved by displaying hardware at work, and dispensing with frivolous topics such as beauty. Critical art, however, is also a question of sense and perception, of transformative forms and diagrams. The approach of The Power of Things explored relations between different materials in the world. This involved an aesthetics aimed at generating new hybrid or more-than-human collectives.
--->
-
-<!--
-Manovich infamously referred to this as the difference between 'Turing-land' and 'Duchamp-land' (Manovich, 1996). Curator Catherine David expressed the Duchamp-land view in an early statement when she suggested "technology in itself is not a category according to which I judge works. This type of categorization is just as outmoded as division into classical art genres (painting, sculpture…). I am interested in the idea of a project; ideally the means of realizing the project should arise from the idea itself" (1997).
--->
-
-#### Design
-
+The New Aesthetic has not only being manifesting itself in the arts. This phenomenon is also gaining popularity in industries such as fashion, architecture, and advertising. The design of clothes we wear are slammed with *digital-esche* imagery. The buildings that shape our environment are also drifting toward a more *New-Aesthetic* look with modern architecture. Marketing and sales are also victims of the movement, bringing along the advertising industry.
 
 
 #### Fashion
@@ -229,20 +115,15 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by the print ind
 
 <!-- describe img-missing ads -->
 
-<!-- ## Criticism -->
-
-<!-- 
-Honor Harger captured a sense of the more tragic outcomes of the debate with some sober reflections. She highlighted, in particular, her dismay at the extreme reactions to Bridle's Tumblr, especially the 'sneering insults' of his work. By contrast, she insists, that this project was never a 'movement', but a personal project. It was never concerned with media art practice, and judging it within those terms is at best 'pointless', at worst, 'unfair',
--->
 
 
 ## Conclusion
 
 - - - 
 
-New or not new, digital or analog, virtual or physical. Regardless of what your personal opinion or biased is towards technology and new media, there is something alive among us that lives and breaths with our civilization that cannot be denied or ignored. The drones, the pixels, the server errors, the ones and zeros. They are now part of our community. Our families.
+New or not new, digital or analog, virtual or physical; regardless of what your personal opinion or biases are towards technology and new media, there is something real among us that lives and breaths with our civilization that cannot be denied or ignored. The drones, the pixels, the server errors, the ones and zeros. They are now part of our community. Our families.
 
-Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid them as you see adequately.
+Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid them as you see adequately. The New Aesthetic is here to stay, and this is only the beginning, so make the best out of it.
 
 
 
@@ -257,7 +138,94 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 ===================================================================== -->
 
 
+<!--  
+One of the core themes of the New Aesthetic has been our collaboration with technology, whether that’s bots, digital cameras or satellites (and whether that collaboration is conscious or unconscious), and a useful visual shorthand for that collaboration has been glitchy and pixelated imagery, a way of seeing that seems to reveal a blurring between “the real” and “the digital”, the physical and the virtual, the human and the machine. It should also be clear that this ‘look’ is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive. [#sxaesthetic][1]
+-->
 
+
+<!-- 
+As communications guru Marshall McLuhan said in one of his numerous probes, "At the very high speed of living, everybody needs a new career and a new job and a totally new personality every ten years" (McLuhan 2002: 114-115).
+-->
+
+<!-- 
+New' is both trendy and trending, 'new' is youthful, 'new' surprises us, 'new' is the varnish elaborately used to shine up that what is already there, what has been lying around in the bottom of the drawer collecting dust and what no one paid attention to... until it becomes the latest 'new' thing.
+-->
+
+<!-- #### On Technology -->
+
+
+<!-- 
+The technological properties that are foregrounded in the image are those that can be discerned on a surface level; the technologies related to its graphical iteration are not those that concern its creation.
+-->
+
+
+<!--
+Putting Fuller's quote into context, he seems to support the idea that assembling something out of parts that 'belong to a collectively available resource' provides a more or less direct lineage from the earliest Dadaists collage art, to net art, to surf clubs, to Tumblr, and to Pinterest. Fuller's assertion is that this kind of online bricolage brings us out of 'standard issue art modes' confronts the perennial battle between low and high culture, i.e., between the talented artists and the hopeless amateurs, since anyone can access the collective resource online, appropriate things, remix them and start collections.
+-->
+
+
+
+<!-- Marius Watz frequently contributes. As an evangelist of the generative, he started the Generator-X conference showcasing latest generative strategies and software processes in digital art, architecture and design, has curated several software art exhibitions and teaches frequently coding and modeling workshops for beginners, freelancers and professionals. [3] -->
+
+
+<!-- 
+The Algorithm Thought Police'
+
+Are not neutral vessels. Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprints on the result. […] “speaking” through algorithms, your thought patterns and modes of expression are shaped by their syntax. (Watz 2012a)
+
+increasingly ubiquitous texture of reality, a skin that's being overlaid in buildings, fashion, cars, jewelry, print publications, and chairs.
+
+Watz's affectionate term, would include, among many others: Circle Packing (which define an area in circles progressively without letting them enter in contact, until the area is completely covered), Polygon subdivision (different techniques of splitting an area in polygonal shapes) and boids (the simulations of the behavior of birds flocking); or voronoi, which is "the partitioning of a plane with n points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other"
+
+Marius Watz, writing on the Creator's Project in a series of responses to Sterling’s essay, argued the case that this aspect was deceptive, "most of what NA offers up for examination is not all that new. Technologies like machine vision and geo-location are old by most standards” (2012b). In his reading, a sense of everyday practices and the ubiquity of digital and networked systems were claimed as distinctive instead: “what is new is their integration into our lives to the point where we are bringing them to bed” (2012b).
+
+It may be, that after a long generation of 'New Media,' 'computer art,' 'digital art,' 'device art,' 'net.art,' 'code art,' and similar always-new pseudonyms, we’ve found a better perspective. We’ve paid a bill in blood and struggle, and a generational shift has occurred. It’s like watching a generation slog it out in the muddy barbed wire, and then seeing a drone appear overhead ... The barbed-wire and bayonet era of net-art is over. It is one with Ypres and Verdun now, and its trenches will fill in with grass. It will never return. (Sterling 2012c)
+-->
+
+
+
+<!-- ### Rachel-Aima -->
+<!-- 
+Rahel Aima and Madeline Ashby, respectively writer and futurist gave a basic instruction in 70's psychoanalytic feminist screen theory. In her blog post at The State, entitled 'Curation, Gender and the New Aesthetic', Aima awkwardly suggested that the attraction of the New Aesthetic might lie in the possibility to "briefly inhabit a (conventionally) feminised subjectivity?" (2012b). In her words,
+ -->
+
+<!-- 
+The New Aesthetic is about being looked at by humans and by machines — by drones, surveillance cameras, people tagging you on Facebook — about being the object of the gaze. It's about looking through the eyes of a machine and seeing the machine turn its beady LEDs on you. It's about the dissolution of privacy and reproductive rights, and the monitoring, mapping, and surveillance of the (re)gendered (re)racialised body, and building our own super-pervasive panopticon. (Aima 2012)
+-->
+
+
+
+<!-- ## Criticism -->
+
+<!-- 
+Honor Harger captured a sense of the more tragic outcomes of the debate with some sober reflections. She highlighted, in particular, her dismay at the extreme reactions to Bridle's Tumblr, especially the 'sneering insults' of his work. By contrast, she insists, that this project was never a 'movement', but a personal project. It was never concerned with media art practice, and judging it within those terms is at best 'pointless', at worst, 'unfair',
+-->
+
+
+<!-- #### Art -->
+
+<!-- @ideas : GIF art,  -->
+
+<!-- 
+Ten Digital Readymades, however, and the link it sets up between Duchamp and process, is how computation actually serves to reinvigorate our understanding of the radical aspects of the readymade concept.
+-->
+
+<!-- 
+MTAA's Ten Digital Readymades (2000), created by entering the term 'ready made' into a search engine and archiving those search results, exemplified the sense that material on the web offers rich fodder for artists to develop work, with or without heavy subsequent alteration by artists (Kasprzak 2009).
+-->
+
+<!-- 
+A glitch design is a glitch design when captured in the photograph of a billboard or flyer. Similarly
+-->
+
+
+<!--
+Perhaps an exhibition like The Power of Things was difficult to read as critical, because a critical exhibition - in traditional electronic art terms - typically entails a bunch of computer screens and robotic sculptures in a dark industrial space, brought together under a dystopian scenario serving as an exhibition theme. Such classic ‘critical’ electronic art exhibitions, however, inform an antiquated interactive electronic art aesthetic - one that dictates that critically looking at technology’s impact on our world is best achieved by displaying hardware at work, and dispensing with frivolous topics such as beauty. Critical art, however, is also a question of sense and perception, of transformative forms and diagrams. The approach of The Power of Things explored relations between different materials in the world. This involved an aesthetics aimed at generating new hybrid or more-than-human collectives.
+-->
+
+<!--
+Manovich infamously referred to this as the difference between 'Turing-land' and 'Duchamp-land' (Manovich, 1996). Curator Catherine David expressed the Duchamp-land view in an early statement when she suggested "technology in itself is not a category according to which I judge works. This type of categorization is just as outmoded as division into classical art genres (painting, sculpture…). I am interested in the idea of a project; ideally the means of realizing the project should arise from the idea itself" (1997).
+-->
 
 
 
@@ -273,8 +241,6 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 [4]: http://mariuswatz.com/bio "Marius Watz"
 
 [5]: http://datenform.de/ "Aram Barthol"
-
-<!-- Computer Literacy Tests: Are You Human? -->
 
 [6]: http://www.time.com/time/magazine/article/0,9171,1812084,00.html "Lev Grossman"
 
@@ -294,5 +260,16 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 
 [14]: http://meshu.io "Meshu"
 
+[15]: http://patrick-jean.allo-infopc.com/ "Patrick Jean"
 
+[16]: http://ghostynet.wordpress.com/2011/01/06/pixel-water-flows-from-exposed-pipes-in-nyc/ "Ghostynet"
 
+[17]: http://vimeo.com/10829255 "Pixels"
+
+[18]: http://datenform.de/ "Aram Bartholl"
+
+[19]: http://datenform.de/map.html "Map"
+
+[20]: http://datenform.de/areyouhuman.html "Are you human?"
+
+[21]: http://www.thecreatorsproject.com/blog/in-response-to-bruce-sterlings-essay-on-the-new-aesthetic#3 "The Problem with Perpetual Newness"
