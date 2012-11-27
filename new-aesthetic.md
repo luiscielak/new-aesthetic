@@ -4,9 +4,6 @@
 >> Taylor, in Bridle 2011 [3]
 
 
-
-
-
 <!-- 
     Research the theory: 
         - What it is, 
@@ -15,10 +12,9 @@
         - Find 3 concrete examples of that theory in practice. 
 -->
 
+
 <!-- Description
 ===================================================================== -->
-
-<!-- [img](public/img/img_01.jpg) -->
 
 ## Description
 - - -
@@ -32,11 +28,15 @@ The life that we used to know once upon a time has dramatically changed. We are 
 ## Origins
 - - -
 
-James Bridle introduced the term on May 6th, 2011. "For a while now, I've been collecting images and things that seem to approach a New Aesthetic of the future [...] we've got frustrated with the NASA extropianism space-future, the failure of jet-packs, and we need to see the technologies we actually have with a new wonder. Consider this a mood-board for unknown products." [3] Referencing to his Tumblr blog new-aesthetic.tumblr.com, where Bridle has been collecting the New Aesthetic artifacts that cross his path. [9] 
+James Bridle introduced the term on May 6th, 2011. "For a while now, I've been collecting images and things that seem to approach a New Aesthetic of the future [...] we've got frustrated with the NASA extropianism space-future, the failure of jet-packs, and we need to see the technologies we actually have with a new wonder. Consider this a mood-board for unknown products." [3] Referring to his Tumblr blog new-aesthetic.tumblr.com, where Bridle has been collecting the New Aesthetic artifacts that cross his path. [9] 
 
-In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explore the effects of the new media, products and artworks, and discuss the ways in which ways of seeing are increasingly transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
+In March 15, 2012, James Bridle put together a panel at SXSW to explore topics on pixelation of low-resolution images, 3D printing, and digital maps. In this session, the participants explored the effects of the new media, products and artworks, and discussed the ways in which we are transforming ways of making and doing. [10] The term gained wider attention following a panel at the SXSW conference in 2012. [1]
 
 The past is needed in order to be able to contextualize the present. The present is only meaningful until we think of the future. Looking ahead allows us to drift through the present with unwritten promises of a better and more rewarding future. It is only after we have lived a past, that we can see the present in constant motion. Previous experiences are the only proof of existence that we have. The theme of the New Aesthetic is a collaboration between the human and the machine. It is "a way of seeing that seems to reveal a blurring between "the real" and "the digital [...] this 'look' is a metaphor for understanding and communicating the experience of a world in which the New Aesthetic is increasingly pervasive." [1]
+
+
+<!-- People
+===================================================================== -->
 
 ## People
 - - -
@@ -50,20 +50,6 @@ In Maps (2009) Bartholl places actual-size Google balloons in public spaces to i
 'Are you Human?' is another project where Barhtoll brings digital artifacts alive into the physical world. He displays CAPTCHA designs as graffiti tags. CATPTCHA is an acronym that stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart' and refers to a test used in computing to verify that the user is indeed a human being, and not a computer generated script trying to force entrance into a system. [20]
 
 
-<!-- - Are you Human (2009) -->
-<!-- http://datenform.de/areyouhuman.html -->
-<!-- http://en.wikipedia.org/wiki/CAPTCHA -->
-
-
-
-<!-- Dead Drops (####) -->
-<!-- 
-Dead Drops and Topshot Helmet sit uncomfortably under the New Aesthetic meme. The meme lives online, while these artworks live in the world, are conceptually grounded in their materiality, and convey their concepts and material-semiotic negotiations through embodied experiences.
-
-Screenshots of Despair.
- -->
-
-
 #### Patrick Jean
 
 Patrick Jean is a French 2D and 3D graphic designer and filmmaker. His work is inspired by video-game concepts from his childhood.
@@ -73,7 +59,7 @@ In 2008 Patrick created a street-art installation in NYC's Lower East Side where
 
 #### Marius Watz
 
-Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the system. The art here is the system, while the resulting shapes and forms are just a byproduct of the system itself. "Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
+Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the system. The art is the system, while the resulting shapes and forms are just a byproduct of the system itself. "Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
 
 These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. Watz refers to some of these systematic cliches as "The Algorithm Police problematic friends". These common algorithms include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13] With this argument Marius highlights that there are common algorithm out there and people should be able to identify them and spot them in the wild, and as creators, to steer away from them.
 
@@ -84,6 +70,8 @@ Some of Marius' current work include 'Probability Lattice', a collection paramet
 >> Marius Watz, 2012 [21]
 
 
+<!-- Examples
+===================================================================== -->
 
 ## Examples 
 - - -
@@ -100,32 +88,28 @@ The New Aesthetic has not only being manifesting itself in the arts. This phenom
 <!-- Meshu -->
 Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places as points in a map. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped. [14]
 
-![http://meshu.io](http://meshu.io/static/images/diagrams/postcard_shoot_web.jpg)
+<!-- ![http://meshu.io](http://meshu.io/static/images/diagrams/postcard_shoot_web.jpg) -->
 
 #### Architecture
 
 Our tools should not limit our ability to capture reality or the ability to create new ones. The tools that we use should not have such an imprint on the outcome of the artistic process. "Some architects can look at a building and tell you which version of autodesk was used to create it." The world is defined by our visualisations of it. What they put in, even as place-holders, always ends up getting built. Lorem Ipsum architecture.) [1]
 
-<!-- examples; chairs, structures -->
+An example of the manifestation of the New Aesthetic in architecture is found on Telehouse West. Telehouse's data center in East London is decorated with a pattern resembling the shape of pixels and their movement traveling in/out of the building. [23]
+
+
 
 #### Advertising
 
 Marketing and advertisement firms have been heavily influenced by this new medium as well. Campaigns all around the world have been borrowing these digital frenzies with means to sell products and services. Some examples are Mexican fast-food chain, Chipotle and Harvey Nichols ad campaign by UAE-based advertising agency Y&R Dubai.
 
-<!-- Chipotle PR + 'Lorem Ipsum bag' -->
-<!-- @FIX -->
+
+
 Chipotle PR team utilized the standard 'Lorem Impsum' text used by the print industry as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
 
-<!-- Harvey Nichols, Woman, 2 #missing-img -->
+Harvey Nichols, a luxury fashion retailer is known for bold and sometimes controversial, campaigns. In their recent 'Bee Seen' campaign by agency Y&R Dubai, a *New-Aesthetic* look is being portrayed. A beautiful, confident woman is surrounded by 'unknown' shapes that resembling the contour of a other women. These subjects 
+are filled in gray-scale shades and seem to be frozen in space. These subjects also carry a triangle-like pattern, based on a polygon subdivision algorithm. However, what carries the message of the whole ad, is the missing-image icon each of these models have. This is the identifiable icon used as placeholder by browsers when an image has not been found on the server. [22]
 
-![image-alt](public/img/img_01.jpg)
-
-
-<!-- Harvey Nichols, Woman, 2 -->
-
-<!-- describe img-missing ads -->
-
-
+<!-- !['Be Seen' - Harvey Nichols](public/img/img_01.jpg)  -->
 
 ## Conclusion
 
@@ -133,21 +117,15 @@ Chipotle PR team utilized the standard 'Lorem Impsum' text used by the print ind
 
 New or not new, digital or analog, virtual or physical; regardless of what your personal opinion or biases are towards technology and new media, there is something real among us that lives and breaths with our civilization that cannot be denied or ignored. The drones, the pixels, the server errors, the ones and zeros. They are now part of our community. Our families.
 
-Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid them as you see adequately. The New Aesthetic is here to stay, and this is only the beginning, so make the best out of it.
-
-
+Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid them as you see adequately. The New Aesthetic is here to stay, and this is only the beginning.
 
 
 > You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
 
 >> Franz Kafka
 
-<br>
 
-<!-- Notes 
-===================================================================== -->
 
-<!-- see notes.md -->
 
 
 <!-- Sources 
@@ -173,7 +151,7 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 
 [10]: http://schedule.sxsw.com/2012/events/event_IAP11102 "Seeing Like Digital Devices"
 
-[11]: Tool-Being_Heidegger-and-the-Metaphysics-of-Objects. "Harman, Graham (2002)"
+[11]: http://www.booki.cc/new-aesthetic-new-anxieties/_draft/_v/1.0/blah-blah/ "Harman, Graham (2002)"
 
 [12]: http://www.thecreatorsproject.com/blog/the-new-aesthetic-revisited-the-debate-continues "Creators Project"
 
@@ -194,3 +172,7 @@ Embrace this unique *new* influence in the work you do and your every day life. 
 [20]: http://datenform.de/areyouhuman.html "Are you human?"
 
 [21]: http://www.thecreatorsproject.com/blog/in-response-to-bruce-sterlings-essay-on-the-new-aesthetic#3 "The Problem with Perpetual Newness"
+
+[22]: http://www.yr-dxb.com/ "Y&R Dubai"
+
+[23]: http://booktwo.org/notebook/secret-servers/ "Secret Servers"
