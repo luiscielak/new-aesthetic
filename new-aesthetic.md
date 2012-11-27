@@ -1,7 +1,7 @@
 # The New Aesthetic
 
-> It's 2011, and I have no idea what anything is or does anymore.
->> Taylor, in Bridle 2011 [3]
+<!-- > It's 2011, and I have no idea what anything is or does anymore.
+>> Taylor, in Bridle 2011 [3] -->
 
 
 <!-- 
@@ -65,9 +65,9 @@ These common algorithms are a path to exploration and experimentation. The outpu
 
 Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
 
-> This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads.
+<!-- > This is the new Aesthetic - human behavior augmented by technology as often as it is disrupted. The New Aesthetic is a sign saying 'Translation Server Error' rather than 'Post Office'. The New Aesthetic is faces glowing ominously as people walk down the street at night staring at their phones - or worse, their iPads.
 
->> Marius Watz, 2012 [21]
+>> Marius Watz, 2012 [21] -->
 
 
 <!-- Examples
@@ -81,11 +81,6 @@ The New Aesthetic has not only being manifesting itself in the arts. This phenom
 
 #### Fashion
 
-<!-- Serena Williams uniform + processing -->
-
-<!-- nervous systems -->
-
-<!-- Meshu -->
 Sha Hwang and Rachel Bim from Meshu make beautiful unique jewelry from maps representing specific places as points in a map. Customers can order from Meshu's website by entering a list of cities. A mesh-like structure jewelry piece is generated with Meshu's custom software, the piece is then 3D printed, and shipped. [14]
 
 <!-- ![http://meshu.io](http://meshu.io/static/images/diagrams/postcard_shoot_web.jpg) -->
@@ -120,13 +115,10 @@ New or not new, digital or analog, virtual or physical; regardless of what your 
 Embrace this unique *new* influence in the work you do and your every day life. Recognize the manifestation of digital beings around your personal physical space and have fun in this playground. Recognize digital cliches and avoid them as you see adequately. The New Aesthetic is here to stay, and this is only the beginning.
 
 
-> You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
+<!-- > You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.
 
 >> Franz Kafka
-
-
-
-
+ -->
 
 <!-- Sources 
 ===================================================================== -->
