@@ -1,8 +1,9 @@
-# The New Aesthetic
-
-<!-- > It's 2011, and I have no idea what anything is or does anymore.
->> Taylor, in Bridle 2011 [3] -->
-
+<!-- 	
+		Title:	The New Aesthetic
+		Class:	Theory of Electronic Communications
+		Author:	Luis Cielak
+		Date:	November 27, 2012
+ -->
 
 <!-- 
     Research the theory: 
@@ -13,13 +14,19 @@
 -->
 
 
+# The New Aesthetic
+
+> It's 2011, and I have no idea what anything is or does anymore.
+>> Taylor, in Bridle 2011 [3]
+
+
 <!-- Description
 ===================================================================== -->
 
 ## Description
 - - -
 
-The New Aesthetic is a termed coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same plane. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle's own words "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] 
+The New Aesthetic is a term coined by James Bridle to describe the blending of the virtual and physical worlds. The New Aesthetic is about the orchestration of pixels and bricks in the same stage. The New Aesthetic is a term used to refer to the increasing appearance of the visual language of digital technology and the Internet in the physical world. In Bridle's own words "The New Aesthetic makes sense of its objects, forms and artifacts. It is an attempt to expand our perspective on what the New Aesthetic might mean, and also consider how media art can re-imagine itself by asking some difficult new questions." [3] 
 
 The life that we used to know once upon a time has dramatically changed. We are beyond the tipping point where technology has influenced every industry and fundamentally changed them at their core. Let us not forget that technology is just a tool. It is the process, the systems and actors around it that must adapt to coexist with technology-driven frameworks.
 
@@ -61,7 +68,7 @@ In 2008 Patrick created a street-art installation in NYC's Lower East Side where
 
 Marius Watz is a Norway born, New York City based generative art artist. Generative art is referred to computer-generated art based on parametric instructions or algorithms to produce aesthetic forms as an output of the system. The art is the system, while the resulting shapes and forms are just a byproduct of the system itself. "Algorithms provide the means to produce specific outcomes, typically through generative logic or data processing. But in the process they leave their distinct footprint on the result." [3] 
 
-These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. Watz refers to some of these systematic cliches as "The Algorithm Police problematic friends". These common algorithms include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13] With this argument Marius highlights that there are common algorithm out there and people should be able to identify them and spot them in the wild, and as creators, to steer away from them.
+These common algorithms are a path to exploration and experimentation. The output of these self-discoveries of the algorithm and the process should not equate to the artist's final output or masterpiece. Watz refers to some of these systematic cliches as "The Algorithm Police problematic friends". These common algorithms include circle packing, reaction diffusion, fractals, strange attractors, voronoi diagrams, flocking / boids, and polygon subdivision. [13] With this argument Marius highlights that there are common algorithm out there and people should be able to identify and spot them in the wild, and as creators, to steer away from them.
 
 Some of Marius' current work include 'Probability Lattice', a collection parametric objects made out of ABS plastic, 3D printed on a Makerbot Replicator.
 
@@ -101,8 +108,8 @@ Marketing and advertisement firms have been heavily influenced by this new mediu
 
 Chipotle PR team utilized the standard 'Lorem Impsum' text used by the print industry as a placeholder in the production-version brown 'to-go' lunch bags. This manifestation of what it used to exists only in a digital world is also being spread by trendy marketing campaigns aiming to target *new* tech-savvy crowds.
 
-Harvey Nichols, a luxury fashion retailer is known for bold and sometimes controversial, campaigns. In their recent 'Bee Seen' campaign by agency Y&R Dubai, a *New-Aesthetic* look is being portrayed. A beautiful, confident woman is surrounded by 'unknown' shapes that resembling the contour of a other women. These subjects 
-are filled in gray-scale shades and seem to be frozen in space. These subjects also carry a triangle-like pattern, based on a polygon subdivision algorithm. However, what carries the message of the whole ad, is the missing-image icon each of these models have. This is the identifiable icon used as placeholder by browsers when an image has not been found on the server. [22]
+Harvey Nichols, a luxury fashion retailer is known for bold and sometimes controversial, campaigns. In their recent 'Bee Seen' campaign by agency Y&R Dubai, a *New-Aesthetic* look is being portrayed. A beautiful, confident woman is surrounded by 'unknown' shapes that resembling the contour of other women. These subjects 
+are filled in a gray-scale shade and seem to be frozen in space. These subjects also carry a triangle-like pattern, based on a polygon subdivision algorithm. However, what carries the message of the whole ad, is the missing-image icon each of these models have. This is the identifiable icon used as placeholder by browsers when an image has not been found on the server. [22]
 
 <!-- !['Be Seen' - Harvey Nichols](public/img/img_01.jpg)  -->
 
